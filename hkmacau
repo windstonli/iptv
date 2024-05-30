@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="HK" tvg-id="HOY 76"HOY 76
+#EXTINF:-1 ,group-title="HK",HOY 76
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
-#EXTINF:-1 ,group-title="HK" tvg-id="HOY 77"HOY 77
+#EXTINF:-1 ,group-title="HK",HOY 77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 ,group-title="HK" tvg-id="HOY 78"HOY 78
+#EXTINF:-1 ,group-title="HK",HOY 78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 ,group-title="HK" tvg-id="HKS 香港衛視"HKS 香港衛視
+#EXTINF:-1 ,group-title="HK",HKS 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,group-title="HK" tvg-id="鳳凰衛視中文 (576p)"鳳凰衛視中文 (576p)
+#EXTINF:-1 ,group-title="HK",鳳凰衛視中文 (576p)
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 ,group-title="HK" tvg-id="RTHK (港台電視31) (1080p)"RTHK (港台電視31) (1080p)
+#EXTINF:-1 ,group-title="HK",RTHK (港台電視31) (1080p)
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 ,group-title="HK" tvg-id="RTHK (港台電視32) (1080p)"RTHK (港台電視32) (1080p)
+#EXTINF:-1 ,group-title="HK",RTHK (港台電視32) (1080p)
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 ,group-title="MC" tvg-id="澳視澳門"澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
